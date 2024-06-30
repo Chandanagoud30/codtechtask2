@@ -16,6 +16,9 @@ OBJECTIVE
 
 The objective of the program is to create a basic calculator in Python that allows users to perform arithmetic operations (addition, subtraction, multiplication, division) on two numbers entered by the user.
 
+
+![Screenshot 2024-06-30 195309](https://github.com/Chandanagoud30/codtechtask2/assets/83391018/f0245347-74c6-4b40-91d4-b0e53e382878)
+
 The key activities of the Python calculator program include:
 
 Input Handling: Prompting the user to enter two numbers and select an operation.
